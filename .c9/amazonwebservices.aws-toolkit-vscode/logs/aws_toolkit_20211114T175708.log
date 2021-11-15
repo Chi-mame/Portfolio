@@ -9,3 +9,4 @@
   path: '/home/ec2-user/environment/.c9/amazonwebservices.aws-toolkit-vscode/cloudformation.schema.json'
 }
 2021-11-14 17:57:08 [ERROR]: Could not refresh schemas:
+2021-11-14 18:02:09 [INFO]: telemetry: sent batch (size=3)
